@@ -1,4 +1,5 @@
 Manifest
 README.rdoc
 Rakefile
+campaign_monitor_subscriber.gemspec
 lib/campaign_monitor_subscriber.rb
